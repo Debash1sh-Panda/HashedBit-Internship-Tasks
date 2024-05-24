@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/HashedBit-Internship-Tasks/static/css/main.4a3433a7.css",
-    "main.js": "/HashedBit-Internship-Tasks/static/js/main.aa1bf728.js",
-    "index.html": "/HashedBit-Internship-Tasks/index.html",
-    "main.4a3433a7.css.map": "/HashedBit-Internship-Tasks/static/css/main.4a3433a7.css.map",
-    "main.aa1bf728.js.map": "/HashedBit-Internship-Tasks/static/js/main.aa1bf728.js.map"
+    "main.css": "/HashedBit-Internship-Tasks-Calculator/static/css/main.4a3433a7.css",
+    "main.js": "/HashedBit-Internship-Tasks-Calculator/static/js/main.aa1bf728.js",
+    "index.html": "/HashedBit-Internship-Tasks-Calculator/index.html",
+    "main.4a3433a7.css.map": "/HashedBit-Internship-Tasks-Calculator/static/css/main.4a3433a7.css.map",
+    "main.aa1bf728.js.map": "/HashedBit-Internship-Tasks-Calculator/static/js/main.aa1bf728.js.map"
   },
   "entrypoints": [
     "static/css/main.4a3433a7.css",
